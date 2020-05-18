@@ -1,0 +1,42 @@
+body {
+    background: linear-gradient(to right, #006699 6%, #ccffff 77%);
+}
+#table {
+    display: grid;
+    grid-template-columns: repeat(3, 90px);
+    grid-template-rows: repeat(3, 90px);
+    margin-left: 40vw;
+    margin-top: 7vw;
+}
+
+#table div {
+    border: solid 2px black;
+    padding: 15%;
+    font-size: 50px;
+    text-align: center;
+}
+
+#display {
+  display: flex;
+  justify-content: space-between;
+  font-size: 40px;
+  margin-top: 40px;
+}
+
+#playerForm {
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px;
+}
+
+input {
+    font-size: 20px;
+}
+
+#newGame {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    font-size: 20px;
+}
