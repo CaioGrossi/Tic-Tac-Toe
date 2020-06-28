@@ -1,2 +1,3 @@
 # tic-tac-toe
-Tic Tac Toe using module pattern and factory function.
+
+Jogo da velha feito em JS para treinar module pattern e factory functions
