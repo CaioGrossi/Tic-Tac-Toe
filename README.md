@@ -1,3 +1,8 @@
-# tic-tac-toe
+# Tic-Tac-Toe
 
-Jogo da velha feito em JS para treinar module pattern e factory functions
+Jogo da velha feito em Javascript puro.
+
+## Estudado 
+* Javascipt no geral
+* Module Patterns
+* Factory Functions
